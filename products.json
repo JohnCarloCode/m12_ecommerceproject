@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Nike Air Jordan 1 Chicago",
+        "image": "https://images.stockx.com/360/Air-Jordan-1-Retro-High-OG-Chicago-Reimagined/Images/Air-Jordan-1-Retro-High-OG-Chicago-Reimagined/Lv2/img18.jpg?w=480&q=57&dpr=2&updated_at=1665692308&h=320",
+        "price": 200
+    },
+    {
+        "id": 2,
+        "name": "Nike Air Force 1",
+        "image": "https://images.stockx.com/360/Nike-Air-Force-1-Low-White-07/Images/Nike-Air-Force-1-Low-White-07/Lv2/img18.jpg?w=480&q=57&dpr=2&updated_at=1635275427&h=320",
+        "price": 120
+    },
+    {
+        "id": 3,
+        "name": "Nike Air Max 1 Anniversary",
+        "image": "https://images.stockx.com/360/Nike-Air-Max-1-Patta-Chlorophyll-2024/Images/Nike-Air-Max-1-Patta-Chlorophyll-2024/Lv2/img01.jpg?w=480&q=57&dpr=2&updated_at=1725024125&h=320",
+        "price": 150
+    },
+    {
+        "id": 4,
+        "name": "Jordan 3 Black Cement",
+        "image": "https://images.stockx.com/360/Air-Jordan-3-Retro-Black-Cement-Reimagined/Images/Air-Jordan-3-Retro-Black-Cement-Reimagined/Lv2/img01.jpg?w=480&q=57&dpr=2&updated_at=1730928230&h=320",
+        "price": 220
+    },
+    {
+        "id": 5,
+        "name": "Jordan 4 Bred",
+        "image": "https://images.stockx.com/360/Air-Jordan-4-Retro-Bred-Reimagined/Images/Air-Jordan-4-Retro-Bred-Reimagined/Lv2/img01.jpg?w=480&q=57&dpr=2&updated_at=1705954810&h=320",
+        "price": 220
+    },
+    {
+        "id": 6,
+        "name": "Jordan 6 Infrared",
+        "image": "https://images.stockx.com/360/Air-Jordan-6-Retro-Black-Infrared-2019/Images/Air-Jordan-6-Retro-Black-Infrared-2019/Lv2/img01.jpg?w=480&q=57&dpr=2&updated_at=1635186523&h=320",
+        "price": 200
+    },
+    {
+        "id": 7,
+        "name": "Jordan 11 Concord",
+        "image": "https://images.stockx.com/360/Air-Jordan-11-Retro-Concord-2018/Images/Air-Jordan-11-Retro-Concord-2018/Lv2/img01.jpg?w=480&q=57&dpr=2&updated_at=1635273689&h=320",
+        "price": 250
+    },
+    {
+        "id": 8,
+        "name": "Jordan 1 Bred",
+        "image": "https://images.stockx.com/360/Air-Jordan-1-Retro-High-85-Bred/Images/Air-Jordan-1-Retro-High-85-Bred/Lv2/img01.jpg?w=480&q=57&dpr=2&updated_at=1738924243&h=320",
+        "price": 200
+    },
+    {
+        "id": 9,
+        "name": "Nike Dunk Low Panda",
+        "image": "https://images.stockx.com/360/Nike-Dunk-Low-Retro-White-Black-2021/Images/Nike-Dunk-Low-Retro-White-Black-2021/Lv2/img01.jpg?w=480&q=57&dpr=2&updated_at=1644250003&h=320",
+        "price": 110
+    },
+    {
+        "id": 10,
+        "name": "Jordan 1 Low Travis Scott",
+        "image": "https://images.stockx.com/360/Air-Jordan-1-Retro-Low-OG-SP-Travis-Scott-Velvet-Brown/Images/Air-Jordan-1-Retro-Low-OG-SP-Travis-Scott-Velvet-Brown/Lv2/img01.jpg?w=480&q=57&dpr=2&updated_at=1732292784&h=320",
+        "price": 350
+    }
+]
